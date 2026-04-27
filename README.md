@@ -19,7 +19,7 @@ Media Handling: Django Media Files<br>
 
 <h3>📂 Project Structure:</h3>
 
-apni-dukaan/
+apni-dukaan/<br>
 ├── cart/  
 ├── ecommerce_project/  
 ├── media/  
